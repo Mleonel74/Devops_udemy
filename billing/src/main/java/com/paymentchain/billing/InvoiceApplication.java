@@ -49,7 +49,7 @@ public class InvoiceApplication {
     }   
 
 
-//main Swagger config definition    
+//main Swagger config definition    2
     @Bean
     public Docket petApi() {
         return new Docket(DocumentationType.SWAGGER_2)
